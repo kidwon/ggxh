@@ -15,7 +15,7 @@ jobs:
         run: npm install
         working-directory: puzzling-potions
       - name: build
-        run: npm build
+        run: npm run build
         working-directory: puzzling-potions
       - name: copy file via ssh key
         uses: appleboy/scp-action@master
