@@ -19,7 +19,7 @@
     },
     "devDependencies": {
         "@assetpack/cli": "^0.7.0",
-        "@assetpack/core": "^0.6.2",
+        "@assetpack/core": "^0.7.0",
         "@assetpack/plugin-compress": "~0.7.0",
         "@assetpack/plugin-ffmpeg": "^0.7.0",
         "@assetpack/plugin-json": "~0.7.0",
